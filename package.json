@@ -1,0 +1,19 @@
+{
+  "name": "twitsnip",
+  "version": "1.0.0",
+  "description": "An app that allows a user to search for a tweet and see it on a map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashstreet/twitsnip.git"
+  },
+  "author": "Ashley Street",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ashstreet/twitsnip/issues"
+  },
+  "homepage": "https://github.com/Ashstreet/twitsnip#readme"
+}
