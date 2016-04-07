@@ -5,10 +5,10 @@ $search = $_POST['usersearch'];
  
 /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
 $settings = array(
-    'oauth_access_token' => "23980715-chcM7OOeCvcpSoOLFoANxOWK0IN30Q0c1pWDxKGWS",
-    'oauth_access_token_secret' => "YqX4X2eHvCGNPRrQVCQM9AY5U5OTa9VsS2jA0VBsLCbPA",
-    'consumer_key' => "0HLRQkQg5QziC6n5Iszt9TKQU",
-    'consumer_secret' => "PJfLM8fHbESrD6wPSeQhaNu7Sx0CUkHq75fw1mGNTy0B6iAy7g"
+    'oauth_access_token' => "OAUTH_ACCESS_TOKEN",
+    'oauth_access_token_secret' => "OAUTH_ACCESS_TOKEN_SECRET",
+    'consumer_key' => "CONSUMER_KEY",
+    'consumer_secret' => "CONSUMER_SECRET"
 );
 
 $url = "https://api.twitter.com/1.1/search/tweets.json";
